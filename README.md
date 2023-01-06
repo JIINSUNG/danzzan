@@ -2,5 +2,5 @@
 ---
 #사용된 프레임워크,툴
 ---
-[React]()
-[Styled-Component]()
+* [React]()
+* [Styled-Component]()
